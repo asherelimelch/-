@@ -1,0 +1,21 @@
+.strip {
+    min-height: 350px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.strip h1 {
+    text-shadow: #FFF 0px 0px 5px, #f00c0c3b 0px 0px 10px, #eb1313 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    color: #FFFFFF;
+    /* background: #333333; */
+}
+.myvov{
+    text-shadow: #FFF 0px 0px 5px, #f00c0c3b 0px 0px 10px, #eb1313 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    color: #FFFFFF;
+}
+.bggrey{
+    background-color: rgb(83, 16, 16);
+}
